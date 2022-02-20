@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2C136D29BCE8E4F43EbcD3345dC5951291625f9F",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Steve NFT",
+  "SYMBOL": "STNT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/steve-nft",
+  "SHOW_BACKGROUND": true
+}
